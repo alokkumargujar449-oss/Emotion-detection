@@ -24,7 +24,7 @@ An NLP web app that detects emotions (sadness, anger, love, joy, fear, surprise)
 ## ⚙️ Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/emotion-detection.git
+git clone https://github.com/alokkumargujar449-oss/Emotion-detection.git
 cd emotion-detection
 pip install -r requirements.txt
 streamlit run app.py
