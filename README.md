@@ -3,7 +3,7 @@
 An NLP web app that detects emotions (sadness, anger, love, joy, fear, surprise) from plain text, built with **Streamlit** and **scikit-learn**.
 
 ## 🚀 Live Demo
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://emotion-detection-ewxh883758keuwmotukzhq.streamlit.app/)
 
 ---
 
